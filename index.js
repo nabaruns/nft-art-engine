@@ -53,4 +53,7 @@ const ae = new ArtEngine({
   ],
 });
 
-ae.run();
+(async () => {
+  await ae.run();
+  ae.printPerformance();
+})();

@@ -1,14 +1,13 @@
 {
-  "name": "@hashlips-lab/art-engine-template",
+  "name": "@nabaruns/nft-art-engine",
   "version": "0.0.0",
   "license": "MIT",
   "contributors": [
-    "Daniel Eugene Botha <hashlipsnft@gmail.com> <https://hashlips.online>",
-    "Marco Lipparini <developer@liarco.net> <https://www.liarco.net>"
+    "Nabarun Sarkar <nabsarkar@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hashlips-lab/art-engine-template.git"
+    "url": "https://github.com/nabaruns/nft-art-engine.git"
   },
   "private": true,
   "scripts": {
